@@ -1,0 +1,22 @@
+.google-map {
+    position: relative;
+}
+
+.iframe-wrapper
+{
+    height: 85vh;
+    position: relative;
+    padding-top: 56.25%;
+}
+
+.google-map iframe {
+    height: 100%;
+    width: 100%;
+    left: 0;
+    top: 0;
+    position: absolute;
+}
+.container
+{
+    max-width: 800px;
+}
